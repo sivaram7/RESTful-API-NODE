@@ -1,13 +1,13 @@
 {
   "name": "nodeuser",
   "version": "1.0.0",
-  "description": "",
+  "description": "node Restful API  ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "SIVARAM",
   "license": "ISC",
   "dependencies": {
     "adm-zip": "^0.4.13",
